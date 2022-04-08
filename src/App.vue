@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
-    <div id="cpp">请使用手机或竖屏访问</div>
+    <div id="cpp" style="color:rgb(0,160,233);font-weight: 900;">请使用手机或竖屏访问</div>
     <div id="bpp">
 
     <transition :name="transitionName">

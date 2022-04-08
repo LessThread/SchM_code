@@ -16,7 +16,7 @@
         </div>
 
         <div class="layer2_1 flex-row">
-          <span class="txt2">请选择</span>
+          <span class="txt2" style="color:rgb(0,160,233);font-weight: 900;">请选择</span>
         </div>
 
 

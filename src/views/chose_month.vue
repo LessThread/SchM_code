@@ -33,10 +33,10 @@
 
     <div id="cm_box2">
       <div class="cm1">
-        <p>xueyi</p>
+        <p>留园</p>
       </div>
       <div class="cm1">
-        <p>liou</p>
+        <p>留園</p>
       </div>
 
     </div>

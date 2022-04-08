@@ -226,19 +226,19 @@ export default {
 <style>
 #rand0{
   width: 100%;
-  //margin-top: 1%;
+  margin-top: 5%;
 }
 
 #rand0>img{
   width: 8vw;
   height: 8vw;
-  margin-left: 80%;
+  margin-left: 8%;
 }
 .page {
   background-color: rgba(255, 255, 255, 1);
   position: relative;
   width: 100vw;
-  height: 177.78vw;
+  height: 197.78vw;
   overflow: hidden;
 }
 
@@ -246,14 +246,14 @@ export default {
   z-index: 2;
   position: relative;
   width: 100vw;
-  height: 171.49vw;
+  height: 100%;
   margin-bottom: 0.1vw;
   overflow-y: auto;
 }
 
 .box1 {
   z-index: 2;
-  height: 170vw;
+  height: 100%;
   background: url(../assets/bg0.png) -0.19vw
     0vw no-repeat;
   background-size: 100vw 177.12vw;

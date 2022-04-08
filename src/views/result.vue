@@ -15,7 +15,7 @@
         </div>
 
         <div class="layer2_1 flex-row">
-          <span class="txt2">详情介绍</span>
+          <span class="txt2" style="color:rgb(0,160,233);font-weight: 900;">详情介绍</span>
         </div>
 
         <img
