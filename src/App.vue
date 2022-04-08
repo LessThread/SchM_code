@@ -8,6 +8,8 @@
       <router-view></router-view>
    </transition>
   </div>
+
+
 <!--    <div id="login" v-on:mousedown.left="createLoves($event)" v-on:mouseup="removeSmallHert">-->
 <!--		<WaveItem ref="background"></WaveItem>	-->
 <!--   </div>-->

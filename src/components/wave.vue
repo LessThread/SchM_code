@@ -95,6 +95,7 @@ export default {
     .wave-item {
       width: 100%;
       height: 100%;
+      //z-index: 1000;
       position: absolute;
       border-radius: 100%;
       animation: {

@@ -7,6 +7,7 @@
           <back_button></back_button>
         </div>
 
+
         <div id="rand0">
           <img
           src="../assets/rand.png"
@@ -108,6 +109,7 @@
                 <span class="info3">清真食堂</span>
               </div>
             </div>
+
             <div class="outer10 flex-col">
               <div class="group3 flex-col justify-between">
                 <div class="box4 flex-col">
@@ -121,6 +123,7 @@
               </div>
             </div>
           </div>
+
           
         </div>
       </div>
