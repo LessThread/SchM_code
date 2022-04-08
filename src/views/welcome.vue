@@ -1,10 +1,8 @@
 <template>
    <div class="welcome">
-
       <div id="wel_img" >
         <img src="../assets/wel2.png" @click="go_on" alt="..."/>
       </div>
-
      <button id="kk" @click="go_on">开始使用</button>
 <!--      <div id="wel_button">-->
 <!--        -->
