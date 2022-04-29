@@ -10,9 +10,9 @@
   </div>
 
 
-<!--    <div id="login" v-on:mousedown.left="createLoves($event)" v-on:mouseup="removeSmallHert">-->
-<!--		<WaveItem ref="background"></WaveItem>	-->
-<!--   </div>-->
+    <div id="login" v-on:mousedown.left="createLoves($event)" v-on:mouseup="removeSmallHert">
+		<WaveItem ref="background"></WaveItem>
+   </div>
 
   </div>
 </template>
@@ -27,12 +27,12 @@
 }
 
 #login{
-  display: none;
-	//position: absolute;
-	/*top: 0;*/
-	/*left: 0;*/
+  //display: none;
+  position: absolute;
+	top: 0;
+	left: 0;
 	width: 70%;
-	/*height: 100%;*/
+	//height: 100%;
 }
 @media only screen and (min-width: 600px) {
   /*body {background-color: lightblue;}*/
@@ -56,13 +56,13 @@
 
 <script>
 
-//import WaveItem from "./components/wave2.vue"
+import WaveItem from "./components/wave2.vue"
 
 
 export default {
   name: 'App',
   components:{
-    //WaveItem,
+    WaveItem,
   },
   data () {
     return {
