@@ -1,24 +1,17 @@
-# vue_twt_beta
+# TJU去哪吃？
 
-## Project setup
+## 项目说明
+本项目是天外天起飞赛的小队作品，现已归档（后端服务已不可用）。本项目旨在解决患有选择困难症的天大学子吃饭选择困难的问题，我们统计了各个食堂窗口的菜品和价格（截至2021年12月，且现在不可用），提供了价格筛选，口味筛选，随机菜品等各个功能，并添加了是否推荐的评价体系。
+
+## 技术栈
+后端我忘了，前端是VUE2
+
+## 安装，运行和构建
 ```
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
-```
-
-### Compiles and minifies for production
-```
 npm run build
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## 一些牢骚
+当时起飞赛的作品，确实很拼凑的代码哈哈哈哈，是第一次接触vue（甚至是互联网开发）的作品，已经想不起来负责设计和产品的同学了，和他们协助还是很愉快。
